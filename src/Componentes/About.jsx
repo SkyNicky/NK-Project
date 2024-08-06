@@ -19,7 +19,7 @@ const About = () => (
         </Typography>
         <Typography variant="body1" component="p" sx={{ mb: 2 }}>
           <strong>Autores:</strong><br />
-          Nicholas (<a href="mailto:nycholasffrocha@gmail.com">nycholasffrocha@gmail.com</a>) e Kauã (<a href="mailto:kauaf6859@hotmail.com">kauaf6859@hotmail.com</a>)
+          Nycholas (<a href="mailto:nycholasffrocha@gmail.com">nycholasffrocha@gmail.com</a>) e Kauã (<a href="mailto:kauaf6859@hotmail.com">kauaf6859@hotmail.com</a>)
         </Typography>
         <Typography variant="body1" component="p">
           Agradecemos por visitar nosso site. Esperamos que você encontre nossas receitas tanto agradáveis quanto inspiradoras!
