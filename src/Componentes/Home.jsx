@@ -8,7 +8,7 @@ const Home = () => {
     {
       id: 1,
       title: 'Bolo de Coxinha',
-      description: 'Aprenda a fazer um delicioso bolo de chocolate.',
+      description: 'Aprenda a fazer um delicioso bolo de coxinha.',
       image: 'https://xtudoreceitas.com/wp-content/uploads/Bolo-de-Coxinha-500x500.webp',
       path: '/receita/bolo-de-coxinha'
     },
