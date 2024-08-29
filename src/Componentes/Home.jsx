@@ -57,7 +57,7 @@ const Home = () => {
     <Box sx={{ p: 4 }}>
       <Box textAlign="center" mb={4}>
         <Typography variant="h2" component="h1" gutterBottom>
-          Bem-vindo à página inicial!
+          Bem-vindo(a) à nossa página!
         </Typography>
         <Typography variant="h6" color="text.secondary">
           Explore nossas deliciosas receitas abaixo
