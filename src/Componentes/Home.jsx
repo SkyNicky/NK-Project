@@ -48,7 +48,6 @@ const Home = () => {
       path: '/receita/rocambole'
     },
 
-    // Outras receitas podem ser adicionadas aqui
   ];
 
   return (
